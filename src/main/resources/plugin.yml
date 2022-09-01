@@ -1,0 +1,10 @@
+name: Cookieclicker
+prefix: Hello
+version: '${project.version}'
+main: de.cookieleaks.cookieclicker.Cookieclicker
+api-version: 1.16
+authors: [DarthSteifus, Keksgauner]
+description: just another Cookieclicker
+website: www.cookieleaks.de
+depend:
+  - Coresystem
